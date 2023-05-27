@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://i.ibb.co/ZgrSw5L/URUHA-RUSHIA.jpg" width="150" height="150" border="0" alt="PFP">
+  <img src="https://w0.peakpx.com/wallpaper/813/845/HD-wallpaper-kurumi-yandere.jpg" width="150" height="150" border="0" alt="PFP">
 
 </div>
 
 <div align="center">
 
-  <img title="Whatsapp-Bot-Multi-Device" src="https://img.shields.io/badge/Whatsapp%20Bot%20Multi%20Device-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge">
+  <img title="Whatsapp-Bot-Multi-Device" src="https://w0.peakpx.com/wallpaper/813/845/HD-wallpaper-kurumi-yandere.jpg">
 
 </div>
 
