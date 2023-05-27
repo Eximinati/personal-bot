@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img title="Whatsapp-Bot-Multi-Device" src="https://w0.peakpx.com/wallpaper/813/845/HD-wallpaper-kurumi-yandere.jpg">
+  <img title="Whatsapp-Bot-Multi-Device" src="https://img.shields.io/badge/Whatsapp%20Bot%20Multi%20Device-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge">
 
 </div>
 
