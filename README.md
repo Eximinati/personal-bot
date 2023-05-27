@@ -157,7 +157,7 @@ since **whatsapp-bot** use [baileys](https://github.com/adiwajshing/Baileys) is 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Debanjan-San"><img src="https://github.com/Debanjan-San.png?v=4?s=100" width="100px;" alt="Debanjan-San"/><br /><sub><b>AliAryanTech</b></sub></a><br /><a href="https://github.com/Eximinati/personal-bot/commits?author=TobyG74" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Debanjan-San"><img src="https://github.com/Debanjan-San.png?v=4?s=100" width="100px;" alt="Debanjan-San"/><br /><sub><b>Debanjan-San</b></sub></a><br /><a href="https://github.com/Eximinati/personal-bot/commits?author=TobyG74" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
