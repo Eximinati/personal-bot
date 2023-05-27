@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Debanjan-San/krypton-WhatsappBot"><b>whatsapp-bot</b></a> out-of-the-box support on...
+  <a href="https://github.com/Eximinati/personal-bot"><b>whatsapp-bot</b></a> out-of-the-box support on...
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@
   <a href="https://railway.app/new/template"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Debanjan-San/krypton-WhatsappBot/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://repl.it/github/Debanjan-San/krypton-WhatsappBot"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/Eximinati/personal-bot"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://repl.it/github/Eximinati/personal-bot"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
 </p>
 
-<p align="center">Need help? please create an <a href="https://github.com/Debanjan-San/krypton-WhatsappBot/issues">issues</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Eximinati/personal-bot/issues">issues</a></p>
 
 ## Highlights
 
@@ -50,7 +50,7 @@
 -   Has a plugin that makes it easier to condition the user
 -   Easy to maintenace without turning off the bot
 -   Made with Baileys - MD (Best Library right now)
--   Using mongodb atlas (cluster example is in [app.json](https://github.com/Debanjan-San/krypton-WhatsappBot/blob/main/app.json)) (helper [MongoDB_Guide.md](https://github.com/Debanjan-San/krypton-WhatsappBot/blob/main/MongoDB_Guide.md))
+-   Using mongodb atlas (cluster example is in [app.json](https://github.com/Eximinati/personal-bot/blob/main/app.json)) (helper [MongoDB_Guide.md](https://github.com/Eximinati/personal-bot/blob/main/MongoDB_Guide.md))
 -   Suitable for those who want to learn Java Script programming
 
 ---
@@ -59,14 +59,8 @@
 
 ---
 
-- Host the bot in any server
-- Use the ```session``` command to get the session in text format
-- Copy the session 
-- Go to [GitHub Gist](https://gist.github.com)
-- Paste the session
-- Create a gist with name of ```session.json```
-- Copy the raw URL by clicking in the raw button at the top right corner
-- Paste the URL in the ```SESSION``` var 
+- Put your session id in session ( should be unique )
+- it will store your session in your mongodb
 
 ---
 
@@ -74,7 +68,7 @@
 
 Here's a tutorial to set up Krypton Bot on your own account in *less than 7 minutes.* The tutorial for which is attached below.
 
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://youtu.be/6P1Ya6ByEYQ)
+[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)]()
 
 ## Getting Started
 
@@ -90,8 +84,8 @@ This project require
 ### Clone this project
 
 ```bash
-git clone https://github.com/Debanjan-San/krypton-WhatsappBot.git
-cd krypton-WhatsappBot
+git clone https://github.com/Eximinati/personal-bot.git
+cd personal-bot
 ```
 
 ### Install the dependencies:
@@ -107,11 +101,10 @@ Create .env file based on .env.example, copy the mongo database URL into .env fi
 ```bash
 NAME=Krypton
 PREFIX=!
-MODS=917003213xxx
 PORT=3000
-WRITE_SONIC=
-BG_API_KEY=
-SESSION=
+openAi= #openAi api key
+BG_API_KEY= # key from www.remove.bg
+SESSION= #an unique session id
 URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
 ```
 
@@ -164,7 +157,7 @@ since **whatsapp-bot** use [baileys](https://github.com/adiwajshing/Baileys) is 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AliAryanTech"><img src="https://github.com/AliAryanTech.png?v=4?s=100" width="100px;" alt="AliAryanTech"/><br /><sub><b>AliAryanTech</b></sub></a><br /><a href="https://github.com/Debanjan-San/krypton-WhatsappBot/commits?author=TobyG74" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Debanjan-San"><img src="https://github.com/Debanjan-San.png?v=4?s=100" width="100px;" alt="Debanjan-San"/><br /><sub><b>AliAryanTech</b></sub></a><br /><a href="https://github.com/Eximinati/personal-bot/commits?author=TobyG74" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
