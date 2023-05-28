@@ -47,7 +47,6 @@ const start = async () => {
     client.name = process.env.NAME || 'Aku\'s Bot'
     client.prefix = process.env.PREFIX || '!'
     client.bgAPI = process.env.BG_API_KEY || null
-    client.mods = client.user.id.split(':')[0]
     client.openAi = process.env.openAi || null
 
     //Database
